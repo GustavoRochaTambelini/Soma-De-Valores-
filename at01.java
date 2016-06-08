@@ -1,11 +1,11 @@
 package atividades;
 
 import java.util.Scanner;
-
+// codigo para soma de dois numeros inteiros
 public class at01 {
  static void soma(int a,int b){
 	 int soma = a + b;
-	 System.out.println("A Soma é: "+soma);
+	 System.out.println("A Soma Ã©: "+soma);
 	 
  } 
 	
